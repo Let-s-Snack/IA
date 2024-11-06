@@ -1,0 +1,10 @@
+pandas
+plotly
+matplotlib
+seaborn
+numpy
+scipy
+statsmodels
+scikit-learn
+yellowbrick
+optuna
