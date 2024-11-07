@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Let's Snack - Inteligência Artificial
 
 ## Descrição
@@ -57,3 +58,6 @@ pip install -r requirements.txt
 
 - [@EnzoHino](https://www.github.com/EnzoHino)
 - [@ArthurMicarelli](https://github.com/ArthurMicarelli)
+=======
+# IA
+>>>>>>> 4777d58f16bbb97104c5207da258f0f8e78e5761
